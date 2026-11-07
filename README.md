@@ -22,3 +22,7 @@
 ## שינוי הדומיין
 
 הכתובת `https://thumbnail.bulu.lol/` מופיעה ב-`public/index.html` (canonical, og:url, og:image, JSON-LD), ב-`public/robots.txt` וב-`public/sitemap.xml`.
+
+## עדכונים
+
+כל דחיפה לענף `main` מפעילה בנייה ופריסה אוטומטית ב-Cloudflare.
